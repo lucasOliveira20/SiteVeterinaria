@@ -1,0 +1,46 @@
+#navbar {
+
+	position: relative;
+	margin-left:0px;
+	top: -10px;
+	
+}
+
+#header {
+	
+	position: center;
+	background-color: WHITE;	
+    border-bottom-left-radius: 30px;
+	border-top-left-radius: 30px;
+	width: 187px;
+	height: 510px;
+	margin-left:10px;
+	
+	
+	
+}
+
+ul{
+	list-style-type: none;
+	margin: 25/*-35px*/;
+	width: 165px;
+	margin-left:-27;
+}
+
+li {
+display: center;
+border: 1px solid gray;
+font-family: Futura, Tahoma, sans-serif;
+color: white;
+padding: 10px;
+border-top-left-radius:10px;
+border-bottom-right-radius:10px;
+background-color: gray;
+}
+
+a {
+
+text-decoration: none;
+color: white;
+
+}
